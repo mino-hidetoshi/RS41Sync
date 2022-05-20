@@ -1,2 +1,2 @@
 # RS41Sync
-RS41 Radio Sonde receiver
+A bit boundary detection filter for RS41 Radio Sonde receivers.
