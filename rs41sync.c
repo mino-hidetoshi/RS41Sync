@@ -2,7 +2,7 @@
   A synchronization filter for RS41 Radio Sonde receivers.
  
   Auther: mino-hidetoshi hidetoshimino@gmail.com
-  version 0.90 2022.05.25
+  version 0.91 2022.05.26
 
   compile: 
       gcc -O3 -o rs41sync rs41sync.c
