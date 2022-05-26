@@ -12,5 +12,5 @@ This program reads a wav formatted stream of RS41 Radio Sonde signal, detects bi
 ## Usage
 - sox file.wav -b 8 -c 1 -r 48k -t wav - | ./rs41sync | ./rs41ptu --ecc2 --crc --ptu
 
-## Compile options
+## Compiler options
 - gcc -O3 -o rs41sync rs41sync
