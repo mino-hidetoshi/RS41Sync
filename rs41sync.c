@@ -1,7 +1,7 @@
 /*
   A synchronization filter for RS41 Radio Sonde receivers.
  
-  Auther: mino-hidetoshi hidetoshimino@gmail.com
+  Auther: mino-hidetoshi
   version 0.91 2022.05.26
 
   compile: 
