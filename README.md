@@ -17,4 +17,4 @@ This program reads a wav formatted stream of RS41 Radio Sonde signal, detects bi
 
 ## Thanks to
 - [rs1729](https://github.com/rs1729) for creating [rs41ptu](https://github.com/rs1729/RS/tree/master/rs41) decoder.
-- [bazingaJojo](https://github.com/bazjo) for the helpful documents [RS41 Decoding](https://github.com/bazjo/RS41_Decoding)
+- [bazingaJojo](https://github.com/bazjo) for the helpful documents [RS41 Decoding](https://github.com/bazjo/RS41_Decoding).
