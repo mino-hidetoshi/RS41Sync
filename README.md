@@ -1,5 +1,5 @@
 # RS41Sync
-A synchronization filter for RS41 Radio Sonde receivers.
+A synchronization filter for RS41 Radio Sonde decoders.
 
 This program reads a wav formatted stream of RS41 Radio Sonde signal, detects bit boundaries and averages the signals over each bit period. It helps decoders to decode signals correctly.
 
